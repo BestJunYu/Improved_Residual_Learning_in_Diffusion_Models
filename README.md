@@ -1,1 +1,1 @@
-# Improved_Residual_Learning_in_Diffusion_Models
+# Improved Residual Learning in Diffusion Models
